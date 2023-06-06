@@ -121,7 +121,6 @@ in
       l4t-cuda
       l4t-nvsci # cuda may use nvsci
       l4t-gbm l4t-wayland
-      cudaPackages.cudatoolkit
     ];
 
     # libGLX_nvidia.so.0 complains without this
